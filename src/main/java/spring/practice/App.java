@@ -1,8 +1,5 @@
 package spring.practice;
 
-
-import javax.security.auth.login.AppConfigurationEntry;
-
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import spring.interfaces.Car;
